@@ -1,0 +1,7 @@
+# Apache — custom 404 for static PIXORA export
+ErrorDocument 404 /404.html
+
+# Optional: force HTTPS if cert is available
+# RewriteEngine On
+# RewriteCond %{HTTPS} off
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
