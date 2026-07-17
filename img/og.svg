@@ -1,12 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <rect width="1200" height="630" fill="#0B0B1A"/>
-  <rect x="64" y="200" width="64" height="64" fill="#1B1B38" stroke="#37E6FF" stroke-width="3"/>
-  <text x="86" y="244" fill="#FF3D9A" font-family="Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">P</text>
-  <text x="148" y="244" fill="#37E6FF" font-family="Arial, sans-serif" font-size="36" letter-spacing="4">PIXORA</text>
-  <text x="64" y="340" fill="#EDEBFF" font-family="Arial, sans-serif" font-size="52" font-weight="700">Read the market in pixels.</text>
-  <text x="64" y="400" fill="#9A97C7" font-family="Arial, sans-serif" font-size="24">Clear scores. Live signals. Early gems. Research only.</text>
-  <rect x="900" y="120" width="12" height="12" fill="#FF3D9A" opacity="0.5"/>
-  <rect x="940" y="160" width="12" height="12" fill="#37E6FF" opacity="0.5"/>
-  <rect x="980" y="140" width="12" height="12" fill="#FFC24B" opacity="0.4"/>
-  <rect x="1020" y="200" width="12" height="12" fill="#37E6FF" opacity="0.35"/>
+  <rect x="64" y="180" width="64" height="64" fill="#1B1B38" stroke="#37E6FF" stroke-width="3"/>
+  <text x="86" y="224" fill="#FF3D9A" font-family="Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">P</text>
+  <text x="148" y="224" fill="#37E6FF" font-family="Arial, sans-serif" font-size="36" letter-spacing="4">PIXORA</text>
+  <text x="64" y="320" fill="#EDEBFF" font-family="Arial, sans-serif" font-size="48" font-weight="700">Market intelligence for Robinhood Chain.</text>
+  <text x="64" y="380" fill="#9A97C7" font-family="Arial, sans-serif" font-size="24">Token scores. Discovery tools. Structured alerts. Research only.</text>
+  <text x="64" y="520" fill="#6E6B9C" font-family="Arial, sans-serif" font-size="18">Independent third-party analytics — not affiliated with Robinhood Markets, Inc.</text>
 </svg>
