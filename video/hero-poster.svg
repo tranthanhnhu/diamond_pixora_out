@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
-  <rect width="1920" height="1080" fill="#0B0B1A"/>
+  <rect width="1920" height="1080" fill="#0A0C08"/>
   <defs>
     <radialGradient id="g1" cx="70%" cy="40%" r="40%">
-      <stop offset="0%" stop-color="#FF3D9A" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#0B0B1A" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#CCFF01" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#0A0C08" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="g2" cx="85%" cy="60%" r="35%">
-      <stop offset="0%" stop-color="#37E6FF" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#0B0B1A" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#9AE600" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0A0C08" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="1920" height="1080" fill="url(#g1)"/>
   <rect width="1920" height="1080" fill="url(#g2)"/>
-  <g fill="#3DF5A0" opacity="0.7">
+  <g fill="#CCFF01" opacity="0.7">
     <rect x="1400" y="620" width="16" height="80"/>
     <rect x="1424" y="560" width="16" height="140"/>
     <rect x="1448" y="600" width="16" height="100"/>
@@ -23,14 +23,14 @@
     <rect x="1520" y="640" width="16" height="60"/>
     <rect x="1544" y="600" width="16" height="100"/>
   </g>
-  <g fill="#37E6FF" opacity="0.4">
+  <g fill="#CCFF01" opacity="0.4">
     <rect x="200" y="300" width="8" height="8"/>
     <rect x="280" y="340" width="8" height="8"/>
     <rect x="360" y="280" width="8" height="8"/>
     <rect x="440" y="360" width="8" height="8"/>
     <rect x="520" y="320" width="8" height="8"/>
   </g>
-  <g fill="#FF3D9A" opacity="0.35">
+  <g fill="#9AE600" opacity="0.35">
     <rect x="240" y="400" width="8" height="8"/>
     <rect x="320" y="440" width="8" height="8"/>
     <rect x="400" y="380" width="8" height="8"/>
